@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{B41E71EE-2FA4-48A4-9CD8-8A32569878F4}|Default">
+﻿<Properties StartupConfiguration="{B41E71EE-2FA4-48A4-9CD8-8A32569878F4}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ProyectoGit FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ProyectoGit FirstBuild="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
 </Properties>
